@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TourBooking</string>
+    <string name="foodDrinkBtn">Food And Drink</string>
+    <string name="historyBtn">History</string>
+    <string name="racingBtn">Racing Background</string>
+    <string name="visitBtn">Places to Visit</string>
+    <string name="thingsBtn">Things to Do</string>
+    <string name="tourBtn">Book A Tour</string>
+    <string name="VisitTitle">Places to Visit</string>
+    <string name="places_to_visit">Places to Visit</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="booking">Make Booking</string>
+    <string name="tour1">Tour 1</string>
+    <string name="tour2">Tour 2</string>
+    <string name="email">Email Address</string>
+    <string name="menuHome">Home</string>
+    <string name="menuReport">Report</string>
+    <string name="menuBooking">Make Booking</string>
+    <string name="reportTitle">Bookings To Date</string>
+    <string name="thingsTitle">Things To Do</string>
+</resources>
+

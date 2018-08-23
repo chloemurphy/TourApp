@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="ie.Activities.Book">
+
+    <item
+        android:id="@+id/menuReport"
+        android:orderInCategory="100"
+        android:title="@string/menuReport"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuBooking"
+        android:orderInCategory="100"
+        android:title="@string/menuBooking"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuReset"
+        android:orderInCategory="100"
+        android:title="Reset"
+        app:showAsAction="never" />
+
+
+</menu>
